@@ -1,3 +1,3 @@
 # sample-project
-sample-project - hot fix
+sample-project - hot fix -2
 feature-2
