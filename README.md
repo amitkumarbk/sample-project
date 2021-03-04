@@ -1,2 +1,2 @@
 # sample-project
-sample-project
+sample-project - hot fix
